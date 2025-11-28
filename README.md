@@ -2,8 +2,6 @@
 Description:Observability stack with Prometheus, Grafana, and custom Python metrics exporter (Docker Compose)
 Topics: prometheus grafana observability monitoring python docker prometheus
 
-# Observability Platform Reference Implementation
-
 Production-ready observability stack featuring:
 - Prometheus with custom scrape configurations  
 - Grafana with pre-provisioned dashboards  
