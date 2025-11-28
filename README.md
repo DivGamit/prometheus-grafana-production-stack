@@ -8,7 +8,7 @@ Production-ready observability stack featuring:
 - Custom Python metrics exporter (HTTP + system metrics)  
 - Fully containerized using Docker Compose
 
-![Dashboard Overview](screenshots/dashboard-overview.png)
+![Dashboard Overview](screenshots/dashboard.png)
 
 ## Stack
 - Prometheus 
