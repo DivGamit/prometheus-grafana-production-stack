@@ -8,8 +8,6 @@ Production-ready observability stack featuring:
 - Custom Python metrics exporter (HTTP + system metrics)  
 - Fully containerized using Docker Compose
 
-Perfect baseline for SRE, Platform Engineering, and Backend roles.
-
 ![Dashboard Overview](screenshots/dashboard-overview.png)
 
 ## Stack
